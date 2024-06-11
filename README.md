@@ -1,6 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 <h1 align="center">Hi 👋, I'm Yvonne Bosire</h1>
 <h3 align="center">A passionate frontend developer working in kenya</h3>
-<body style ="background-color:black;">
+<body style ="background-color🖤; color⚪;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y860&label=Profile%20views&color=0e75b6&style=flat" alt="y860" /> </p>
 
@@ -35,3 +41,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=y860&show_icons=true&locale=en&layout=compact" alt="y860" /></p>
 </body>
+</html>
