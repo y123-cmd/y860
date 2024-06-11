@@ -7,6 +7,8 @@
 <h1 align="center">Hi 👋, I'm Yvonne Bosire</h1>
 <h3 align="center">A passionate frontend developer working in kenya</h3>
 <body style ="background-color🖤; color⚪;">
+![anime-typing](https://github.com/y860/y860/assets/81848589/1d56eb16-9aa8-45b6-a04f-485c99b56d7e)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y860&label=Profile%20views&color=0e75b6&style=flat" alt="y860" /> </p>
 
