@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [portfolio and a hotel management system](https://github.com/y860/georgia_repository)
 
-- 🌱 I’m currently learning **react,nodejs,angular,java**
+- 🌱 I’m currently learning **react,python**
 
 - 👯 I’m looking to collaborate on [portfolio](https://github.com/y860/georgia_repository)
 
