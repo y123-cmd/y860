@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<marquee behavior="scroll" direction="left" scrollamount="10" style="font-size: 36px; color: #FF6347;">Hi 👋, I'm Yvonne Bosire</marquee>
+<h1 align="center">Hi 👋, I'm Yvonne Bosire</h1>
 <h3 align="center">A passionate frontend developer working in kenya</h3>
 <body style ="background-color:black; color:white;">
     
