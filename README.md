@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/y123-cmd/](https://github.com/y123-cmd/georgia_repository)
 
-- 💬 Ask me about **java, html,css ,javascript,sql data modification,(DBMS),indexing and optimazation**
+- 💬 Ask me about **python, html,css ,javascript,sql data modification,(DBMS),indexing and optimazation**
 
 - 📫 How to reach me **yvonnebosire24@gmail.com**
 
