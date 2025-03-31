@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y123-cmd" alt="y123-cmd" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio and a hotel management system](https://github.com/y123-cmd/georgia_repository)
+- 🔭 I’m currently working on [portfolio and API'S PROJECTS](https://github.com/y123-cmd/georgia_repository)
 
 - 🌱 I’m currently learning **react,python**
 
